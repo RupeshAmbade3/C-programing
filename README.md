@@ -19,6 +19,8 @@ After learning C, it will be much easier to learn other programming languages li
 Opportunity to work on open source projects. Some of the largest open-source projects such as Linux kernel, Python interpreter, SQLite database, etc. are written in C programming.
 
 -------------------------------/
+
+
 #include <stdio.h>
 
 int main()
